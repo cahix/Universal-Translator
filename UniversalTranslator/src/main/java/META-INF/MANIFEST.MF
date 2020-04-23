@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Class-Path: joda-time-2.9.2.jar google-cloud-core-grpc-1.43.0.jar thre
+ etenbp-1.3.3.jar jackson-core-2.1.3.jar grpc-stub-1.13.1.jar api-comm
+ on-1.7.0.jar google-auth-library-oauth2-http-0.10.0.jar grpc-context-
+ 1.13.1.jar google-http-client-jackson2-1.19.0.jar commons-logging-1.1
+ .1.jar opencensus-contrib-http-util-0.15.0.jar httpcore-4.0.1.jar goo
+ gle-http-client-1.19.0.jar grpc-netty-shaded-1.13.1.jar google-cloud-
+ translate-1.53.0.jar google-oauth-client-1.27.0.jar proto-google-clou
+ d-speech-v1beta1-0.26.0.jar gson-2.7.jar google-api-client-1.27.0.jar
+  grpc-protobuf-lite-1.13.1.jar proto-google-iam-v1-0.12.0.jar google-
+ cloud-core-1.43.0.jar protobuf-java-util-3.6.0.jar opencensus-api-0.1
+ 5.0.jar proto-google-common-protos-1.12.0.jar jlayer-1.0.1.jar grpc-p
+ rotobuf-1.13.1.jar grpc-auth-1.13.1.jar google-http-client-appengine-
+ 1.27.0.jar google-cloud-speech-0.61.0-beta.jar proto-google-cloud-spe
+ ech-v1-0.26.0.jar proto-google-cloud-speech-v1p1beta1-0.26.0.jar gax-
+ httpjson-0.52.0.jar protobuf-java-3.6.0.jar google-cloud-core-http-1.
+ 53.0.jar grpc-core-1.13.1.jar httpclient-4.0.1.jar gax-grpc-1.30.0.ja
+ r commons-codec-1.3.jar error_prone_annotations-2.1.2.jar opencensus-
+ contrib-grpc-metrics-0.12.3.jar google-api-services-translate-v2-rev2
+ 0170525-1.27.0.jar guava-20.0.jar gax-1.30.0.jar jsr305-3.0.2.jar jav
+ a-google-speech-api-V2.1.jar google-auth-library-credentials-0.10.0.j
+ ar
+Main-Class: TranslateProcedure.Main
+
